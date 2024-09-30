@@ -1,0 +1,25 @@
+<!doctype html> 
+ 
+<html> 
+<head> 
+    <title></title> 
+    <head> 
+<style> 
+    .cl{ 
+        color:red; 
+ 
+    } 
+    #id1{ 
+        color:blue; 
+    } 
+    h1{ 
+        color:brown; 
+ 
+    } 
+</style> 
+    </head> 
+    <body> 
+        <h1  id="id1" class ="cl"  style="color: purple;" > Klu Univ</h1> 
+    </body> 
+     
+    </html>
